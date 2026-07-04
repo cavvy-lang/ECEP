@@ -1,5 +1,5 @@
-# CEP
-CEP 代理仓库 
+# ECEP
+ECEP 代理仓库 
 
 可以在这里向Ethernos Standardization & Specification Organization的Ethernos Cavvy Programming Language Standardization Organization一键通过issue提交Ethernos Cavvy Enhancement Proposal
 
